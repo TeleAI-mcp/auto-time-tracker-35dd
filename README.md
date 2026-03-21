@@ -1,2 +1,3 @@
-# auto-time-tracker-35dd
+# Auto Time Tracker 35Dd
+
 A time tracking and billing tool for modern development workflows.
